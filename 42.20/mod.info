@@ -1,0 +1,7 @@
+name=Kill Zone Counter
+id=KillZoneCounter
+description=Draw a zone on the world map and count your kills inside it.
+modversion=1.0
+poster=poster.png
+icon=icons.png
+tags=Build 42, Interface, QOL, Gameplay
